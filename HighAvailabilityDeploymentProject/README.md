@@ -2,4 +2,4 @@
 This directory contains the project submission artefacts for the Cloud DevOps Nanodegree program.
 
 ## CloudFormation Diagram
-![alt text](UdagramDiagram.jpg)
+![alt text](https://github.com/chiru42/CloudDevOpsEngineer_ND/blob/chiru42-patch-1/HighAvailabilityDeploymentProject/UdagramDiagram.jpeg)

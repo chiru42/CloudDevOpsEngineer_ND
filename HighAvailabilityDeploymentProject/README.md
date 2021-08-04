@@ -37,5 +37,5 @@ The sequence for stack deletion is a mentioned below
 ---
 [http://udagr-WebAp-1JO4UCAQF6F6L-644358134.us-east-1.elb.amazonaws.com](http://udagr-WebAp-1JO4UCAQF6F6L-644358134.us-east-1.elb.amazonaws.com)
 
-### Screenshot of succesfull server launch via Load Balancer DNS name
+### Screenshot of successful server launch via Load Balancer DNS name
 ![server screenshot](https://github.com/chiru42/CloudDevOpsEngineer_ND/blob/chiru42-patch-1/HighAvailabilityDeploymentProject/serverCheck.PNG)
